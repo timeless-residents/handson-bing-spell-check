@@ -29,7 +29,7 @@ poetry install
 To run `main.py`, execute the following command:
 
 ```bash
-poetry run uvicorn handson_bin_spell_check.main:app --reload
+poetry run python handson_bing_spell_check/main.py
 ```
 
 ## Contributing
